@@ -1,0 +1,3 @@
+../Core/Src/sensor.c:7:6:SHT31_ReadTempHumidity	40	static
+../Core/Src/sensor.c:25:5:getPM25	40	static
+../Core/Src/sensor.c:64:8:getCOValue	56	static

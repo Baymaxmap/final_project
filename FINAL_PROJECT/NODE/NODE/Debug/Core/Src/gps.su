@@ -1,0 +1,2 @@
+../Core/Src/gps.c:5:7:getLatGps	152	static
+../Core/Src/gps.c:50:7:getLongGps	152	static

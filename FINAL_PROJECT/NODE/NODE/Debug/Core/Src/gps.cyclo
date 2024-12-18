@@ -1,0 +1,2 @@
+../Core/Src/gps.c:5:7:getLatGps	9
+../Core/Src/gps.c:50:7:getLongGps	9
